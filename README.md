@@ -1,6 +1,4 @@
------Trần Anh Kiên-----
--Too lazy to code.
--Fall in love with a blond girl.
+-------------Too lazy to code-------------
 
 
 
