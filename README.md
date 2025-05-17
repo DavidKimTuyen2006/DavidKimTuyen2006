@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @DavidKimTuyen2006
-- 👀 I’m interested in Sleping
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on FB
-- 📫 How to reach me IB
-- 😄 Pronouns: Your father
-- ⚡ Fun fact: Vinahouse while coding
+-----Trần Anh Kiên-----
+-Too lazy to code.
+-Fall in love with a blond girl.
+
+
+
 
 <!---
 DavidKimTuyen2006/DavidKimTuyen2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
